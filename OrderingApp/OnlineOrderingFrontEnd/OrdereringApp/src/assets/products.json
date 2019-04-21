@@ -1,0 +1,71 @@
+{
+   "products":
+    [
+        {
+          "id": 1,
+          "name": "Oransi",
+          "description": "Clean the air of Allergies, Dust, Asthma, Bacteria, Pollen, Mold Spores, Pet Dander;Rated #1 in Only Comprehensive University Study for the Performance You Need;Room air purifier removes 99%+ of Airborne Particles;Best for Bedroom, Office, Living Room, Basement;Lightweight and Easy to Move;Activated carbon filter for light odors and gases;For smoke removal you are better going with the EJ air purifier;Max also available in 220V/50 for international markets;What's included: 1 Max HEPA Air Purifier / 1 Complete set of filters / User's Manual.",
+          "quantity": 33,
+          "price": 1000,
+          "imageUrl": "https://www.volusion.com/blog/content/images/2018/10/Screen-Shot-2018-10-01-at-1.47.06-PM--2-.png",
+          "category": {
+            "name": "Electronics, Home, Lifestyle"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Game Bibs",
+            "description": "AMT brings back BATMAN’S sleek super-plane, the BATWING, from Tim Burton’s blockbuster 1989 BATMAN film. This secret weapon against crime is fully equipped with plenty of the expected gadgets like its dual Gatling guns and front shears. It’s opening canopy reveals more detail like BATMAN’S sighting scope and the Caped Crusader himself in the pilot seat. This release features an updated metal support rod to hold the finish model above its bat-symbol base. All new eye-catching packaging along with updated decals and pictorial assembly guide round out the kit. Joker beware!",
+          "quantity": 22,
+          "price": 2000,
+          "imageUrl": "https://www.volusion.com/blog/content/images/2018/10/Screen-Shot-2018-10-01-at-1.53.08-PM--2-.png",
+          "category": {
+            "name": "Clothing, Sports"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Model Roundup",
+            "description": "At Hillbilly Stills we carry some of the best moonshine stills for sale you will find anywhere and our Turn Key Distillery is certainly no exception. This is the perfect whiskey, rum, and moonshine still kit for the serious distiller. Build time as of right now is 4-6 weeks! The boiler included in this still kit comes with a ball valve drain on the bottom and the top opens to a 3'' inch neck. The 3'' pot still easily attaches to the boiler with an included tri-clamp. With the proper permits this moonshine still can make the product of your choice. Whether you’re doing a single run whiskey and rum or a double run for moonshine this still will do the job. Why attempt to build a still yourself when you can purchase your very own professional grade still from Hillbilly Stills that functions as well as it looks? We welcome micro distiller businesses or the most demanding craft distillers to try our moonshine still. You will love this setup, we guarantee.",
+            "quantity": 3,
+            "price": 3000,
+            "imageUrl": "https://www.volusion.com/blog/content/images/2018/10/Screen-Shot-2018-10-01-at-1.27.54-PM.png",
+            "category": {
+                "name": "Toys, Children Accessories"
+            }
+        },
+        {
+            "id": 4,
+            "name": "Hillbilly Stills",
+            "description": "*YAS GIRL! Walk in this navy velvet set and expect all eyes on you. Designed with a one shoulder unique crop top and fitted capri pants. *",
+            "quantity": 44,
+            "price": 4000,
+            "imageUrl": "https://www.volusion.com/blog/content/images/2018/10/Screen-Shot-2018-10-01-at-1.31.05-PM--2-.png",
+            "category": {
+                "name": "Distillery, Lifestyle"
+            }
+        },
+        {
+            "id": 5,
+            "name": "Hot Miami Styles",
+            "description": "Cheer on your favorite red and white team in eye-popping style with these red & white striped game bib overalls! Each pair is made of 100 percent cotton for a comfortable, breathable fit regardless of the weather and includes easily adjustable shoulder straps for fans with long torsos. Whether you’re on rickety bleachers on a Friday night or trying to get on television at the Sunday morning tailgate, our red & white striped game bibs will make you stand out in the crowd and leave an impression. These particular bib overalls are also great as casual Clauswear for any Saint Nicks who might be taking in a game during the holiday offseason!",
+            "quantity": 5,
+            "price": 5000,
+            "imageUrl": "https://www.volusion.com/blog/content/images/2018/10/Screen-Shot-2018-10-01-at-1.37.57-PM--2-.png",
+            "category": {
+                "name": "Clothing, Trendy, Fashion"
+            }
+        },
+        {
+            "id": 6,
+            "name": "B. Witching Bath Co.",
+            "description": "Selected by House Beautiful Magazine as Best For The Bath. Our award-winning Natural Honey Facial Cleansing Bar is enriched with natural skin nourishing extracts, honey and royal jelly. Remove dirt and impurities from your sensitive skin with our all-natural cleansing bar. Our gentle formula is especially designed to help neutralize skin irritations. This therapeutic blend is great for all skin types, especially sensitive or problematic skin, gentle yet effective. Directions: Wet the bar, lather, massage into facial skin, avoiding the eye area and rinse thoroughly. 3.5 oz. bar",
+            "quantity": 66,
+            "price": 6000,
+            "imageUrl": "https://www.volusion.com/blog/content/images/2018/10/Screen-Shot-2018-10-01-at-1.40.29-PM--2-.png",
+            "category": {
+                "name": "Bathing Accessories, Lifestyle"
+            }
+        }
+    ]
+}
